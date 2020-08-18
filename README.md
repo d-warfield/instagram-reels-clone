@@ -1,6 +1,3 @@
-## Instagram Reels Clone using Firebase Realtime Database
-
-![hippo](https://media.giphy.com/media/SqH30Tf6xPrL7dpTUq/giphy.gif)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
