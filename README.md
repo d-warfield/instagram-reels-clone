@@ -1,4 +1,4 @@
-## Instagram Reels Clone using Firebase Realtime Database
+# Instagram Reels Clone using Firebase Realtime Database
 
 ![Alt Text](https://media.giphy.com/media/ln6BHaLaEbmhS4d6XM/giphy.gif)
 
