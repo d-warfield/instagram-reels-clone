@@ -1,9 +1,9 @@
 import firebase from "firebase";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyB9xaQ0Y8bMHkMV9glUtz37nSZFbPGKS3s",
+    apiKey: "AB9xaQ0Y8bMHkMV9glUtz37nSZFbPGKS3s",
     authDomain: "ig-reels-clone-be583.firebaseapp.com",
-    databaseURL: "https://ig-reels-clone-be583.firebaseio.com",
+    databaseURL: "https://ig-reels-clone.firebaseio.com",
     projectId: "ig-reels-clone-be583",
     storageBucket: "ig-reels-clone-be583.appspot.com",
     messagingSenderId: "233354954661",
